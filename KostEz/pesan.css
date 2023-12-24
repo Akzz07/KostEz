@@ -1,0 +1,28 @@
+body {
+    background-image: url(img/KostEz.png);
+    background-size: 100%;
+  }
+.box {
+    text-align: center;
+    font-family: Impact, 'Arial Narrow', sans-serif;
+    position: center;
+    width: 580px;
+    height: 680px;
+    margin: 6% auto;
+    background: rgba(134, 134, 134, 0.7);
+    padding: 5px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+  
+.boxx{
+    width: 580px;
+    height: 700px;
+    position: relative;
+    margin: 6% auto;
+    background: rgba(134, 134, 134, 0.7);
+    padding: 15px;
+    border-radius: 2%;
+    overflow: hidden;
+    margin-top: 50px;
+}

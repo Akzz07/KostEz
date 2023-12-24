@@ -1,0 +1,29 @@
+body {
+  background-image: url("img/KostEz.png");
+  background-size: 100%;
+}
+.kpl {
+  text-align: center;
+  background-color: rgb(217, 120, 120);
+}
+.box {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(194, 156, 156);
+  background-position-x: left;
+  padding: 50px;
+  width: 500px;
+  height: 700px;
+  margin-top: 10px;
+  border-radius: 2%;
+  margin: 2% auto;
+  background-size: contain;
+}
+
+.fotoprofil{
+  width: 240px;
+  height: 200px;
+  background-color: white;
+  position: absolute;
+
+}
